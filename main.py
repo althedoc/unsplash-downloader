@@ -9,7 +9,7 @@ import shutil
 mainurl = "https://unsplash.com/t/wallpapers"
 
 # Linux format - this is where to store the images
-outputdir = "/home/alex/Desktop/wallpapersUnsplash"
+outputdir = "/home/MYUSERNAME/Desktop/wallpapersUnsplash"
 
 # Number of times to scroll down automatically in the webbrowser - 14 is a good starting point
 numberofscrollsdown = 14
